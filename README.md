@@ -4,7 +4,7 @@ OpenWrt / ImmortalWrt / AX6000 / MT7986A / JDCloud RE-CP-03 / WED / 云编译
 > 基于 ImmortalWrt **openwrt-25.12 稳定分支**的定制固件，适配京东云无线宝百里 AX6000（RE-CP-03），每 6 小时自动检测上游修复并编译发布
 
 > 🔀 **本仓库为 25.12 稳定分支版**：内核 6.12 LTS，只做修复性回填，适合养老日常使用。
-> 想要最新内核与特性？👉 **[master 滚动快照版 → Openwrt-AX6000](https://github.com/li5135580/Openwrt-AX6000)**
+> 想要最新内核与特性？👉 **[master 滚动快照版 → Openwrt-AX6000](https://github.com/xyford/Openwrt-AX6000)**
 
 [👉 进入 Releases 下载固件](../../releases)
 
